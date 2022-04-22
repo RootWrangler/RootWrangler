@@ -1,4 +1,4 @@
-<a href="#"><p align="center"><img width="25%" height="auto" src="https://user-images.githubusercontent.com/59831438/164355796-def49a47-3eca-4284-9c10-325696f5700b.png" height="175px"/></p></a>
+<a href="#"><p align="center"><img width="50%" height="auto" src="https://user-images.githubusercontent.com/59831438/164355796-def49a47-3eca-4284-9c10-325696f5700b.png" height="175px"/></p></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Root</h1>
 <h3 align="center">Program Manager | Project Manager | Scrum Master</h3>
